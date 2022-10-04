@@ -2,7 +2,9 @@
 
 This project is for learning purpose. Learning how to design a login page will improve your Tailwind CSS skills and gain real-world experience. 
 
-Watch how a simple login page has been created on YouTube - 
+Watch how a simple login page has been created on YouTube - https://youtu.be/We5HZSS2sHM
+
+![alt tag](https://raw.githubusercontent.com/phithounsavanh/Tailwind-Simple-Login-Page/main/images/login-page-design.png) 
 
 
 ### Getting started
