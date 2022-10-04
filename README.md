@@ -1,11 +1,21 @@
-## Taiwlind Starter
-This repository is used to start coding Tailwind projects real quick. 
-Developers do not have to go through rough steps to create and configure a Tailwind project.
+## Simple Login Page With Tailwind CSS
+
+This project is for learning purpose. Learning how to design a login page will improve your Tailwind CSS skills and gain real-world experience. 
+
+Watch how a simple login page has been created on YouTube - 
 
 
 ### Getting started
 
-The repository has included Tailwind CSS and it is ready to use without additional actions. 
+After cloning the repository, follow these command 
+
+Install Node Modules
+
+```npm
+
+npm install
+
+```
 
 Build & Complie Tailwind Command
 
